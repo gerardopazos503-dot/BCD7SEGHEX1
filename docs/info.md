@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+ADD HEX CODE
 
 ## How to test
 
-Explain how to use your project
+Hexadecimal code was implemented on a 7-segment decimal display.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Hexadecimal code was implemented on a 7-segment decimal display.
